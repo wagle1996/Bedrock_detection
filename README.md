@@ -1,4 +1,16 @@
-#This is the code for Bed rock Detection which I did for my Machine learning class. I have modified the Tensorflow object detection APi for applying for my dataset.
+# This is the code for Bed rock Detection which I did for my Machine learning class. I have modified the Tensorflow object detection APi for applying for my dataset.
+
+Required Modules for running:
+1. tensorflow-gpu==1.15
+2. numpy
+3. matplotlib
+4. pycocotools
+5. cython
+Some extramodules which you need to download while running
+
+Objectdetection.ipynb has code for running the inference on dataset. You can change the path of the saved model and run on your test data.
+
+
 
 
 
