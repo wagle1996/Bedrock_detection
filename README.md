@@ -1,4 +1,6 @@
-# This is the code for Bed rock Detection which I did for my Machine learning class. I have modified the Tensorflow object detection APi for applying for my dataset.
+# This code is forked from the tensorflow/models. 
+
+This is the code for Bed rock Detection which I did for my Machine learning class. I have modified the Tensorflow object detection APi for applying for my dataset.
 
 Required Modules for running:
 1. tensorflow-gpu==1.15
