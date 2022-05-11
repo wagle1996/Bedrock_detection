@@ -1,3 +1,8 @@
+#This is the code for Bed rock Detection which I did for my Machine learning class. I have modified the Tensorflow object detection APi for applying for my dataset.
+
+
+
+
 <div align="center">
   <img src="https://storage.googleapis.com/tf_model_garden/tf_model_garden_logo.png">
 </div>
