@@ -8,6 +8,8 @@ Required Modules for running:
 5. cython
 Some extramodules which you need to download while running
 
+
+
 Objectdetection.ipynb has code for running the inference on dataset. You can change the path of the saved model and run on your test data.
 
 
