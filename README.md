@@ -14,7 +14,7 @@ For Bedrock Detection I classified worldview-3 images using SSD and RCNN models.
 
  *** Please email wagle1996@gmail.com or nimisha_wagle@brown.edu for Image data set. ***
  
- For saved checkpoint and tfrecord please see [[this link](https://drive.google.com/drive/folders/17F0NfQnrH50cOrhKCXdWAUtYG3Kq66ZM?usp=sharing)]
+ For saved checkpoint and tfrecord please see [this link(https://drive.google.com/drive/folders/17F0NfQnrH50cOrhKCXdWAUtYG3Kq66ZM?usp=sharing)]
  
  To use the model run
  ```shell
