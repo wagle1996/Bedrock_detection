@@ -12,7 +12,7 @@ Some extramodules which you need to download while running
 
 For Bedrock Detection I classified worldview-3 images using SSD and RCNN models. 
 
- Please email wagle1996@gmail.com for data set. 
+ ***Please email wagle1996@gmail.com or nimisha_wagle@brown.edu for data set. 
  
  To use the model run
  ```shell
