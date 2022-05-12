@@ -15,9 +15,9 @@ For Bedrock Detection I classified worldview-3 images using SSD and RCNN models.
  Please email wagle1996@gmail.com for data set. 
  
  To use the model run
- '''
- Python model/research/object_detection/modelmain.py
-'''
+ ```shell
+Python model/research/object_detection/model_main.py --config_file --model_dir 
+```
 Objectdetection.ipynb has code for running the inference on dataset. You can change the path of the saved model and run on your test data.
 
 
