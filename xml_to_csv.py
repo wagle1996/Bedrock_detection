@@ -3,6 +3,7 @@
 Created on Tue Apr 19 11:49:11 2022
 
 @author: nwagle
+modified from "https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/"
 """
 import xml.etree.ElementTree as ET
 import glob
