@@ -20,7 +20,7 @@ Python model/research/object_detection/model_main.py --config_file --model_dir
 ```
 Objectdetection.ipynb has code for running the inference on dataset. You can change the path of the saved model and run on your test data.
 
-
+Please find configuration file with hyperparameters of SSD and RCNN which I used for this project in this Repository
 
 
 
